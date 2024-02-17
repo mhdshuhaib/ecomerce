@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953476058768",
+    "project_id": "testauth-cf460",
+    "storage_bucket": "testauth-cf460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953476058768:android:aa3810fd08cba571a2d215",
+        "android_client_info": {
+          "package_name": "com.example.tempauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEH0bke-B392JaCr-QmagCE-1U94m6aYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
